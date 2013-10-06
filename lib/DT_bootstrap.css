@@ -1,15 +1,14 @@
 
 div.dataTables_length label {
-	float: left;
-	text-align: left;
+  display: block;
 }
 
-div.dataTables_length select {
-	width: 75px;
+div.dataTables_length {
+	float: none;
 }
 
 div.dataTables_filter label {
-	float: right;
+	float: none;
 }
 
 div.dataTables_info {
@@ -17,7 +16,7 @@ div.dataTables_info {
 }
 
 div.dataTables_paginate {
-	float: right;
+	float: none;
 	margin: 0;
 }
 
